@@ -1,0 +1,15 @@
+{
+  "name": "skinny-bone-pm2",
+  "version": "0.1.0",
+  "description": "pm2",
+  "author": {
+    "name": "Geometria Lab"
+  },
+  "main": "./bone.js",
+  "dependencies": {
+    "pm2": "~0.12.13"
+  },
+  "engines": [
+    "iojs >= 2.0"
+  ]
+}
